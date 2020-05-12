@@ -17,6 +17,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 
 public class DriverInitialization {
+	
+	
+	
+	
+	
 
 	public static final String System_Proprty_chrome = "E:\\SELENIUM\\78\\chromedriver_win32\\chromedriver.exe";
 	public static final String url = "http://demo.automationtesting.in/Register.html";
